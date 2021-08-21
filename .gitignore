@@ -1,0 +1,5 @@
+.cr/
+.vs/
+packages/
+bin/
+obj/
